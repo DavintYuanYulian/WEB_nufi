@@ -19,12 +19,12 @@ Struktur Repository:
    git checkout -b nama-branch-kamu
    ```
 3. **Tambahkan progres ke folder yang sesuai**:
-   - `Layout_Profile` → untuk layout profil.
-   - `Layout_Dashboard-Utama` → untuk dashboard utama.
+   - `Layout_Profile` → (Contoh)untuk layout profil.
+   - `Layout_Dashboard-Utama` → (Contoh)untuk dashboard utama.
 4. **Commit dan Push**:
    ```bash
    git add .
-   git commit -m "Menambahkan progres layout dashboard"
+   git commit -m "(Contoh)Menambahkan progres layout dashboard"
    git push origin nama-branch-kamu
    ```
 5. **Lakukan Pull Request (PR)** setelah selesai.
