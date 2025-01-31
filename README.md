@@ -12,7 +12,7 @@ Struktur Repository:
 ## Panduan Kolaborasi Repository
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/username/WEB_nufi.git
+   git clone https://github.com/WEB_nufi.git
    ```
 2. **Buat branch baru untuk masing-masing progres**:
    ```bash
